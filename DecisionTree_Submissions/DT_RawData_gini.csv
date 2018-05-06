@@ -11,7 +11,7 @@ id,type
 18,Goblin
 20,Ghost
 21,Ghoul
-24,Goblin
+24,Ghoul
 26,Ghost
 33,Ghoul
 38,Ghost
@@ -36,7 +36,7 @@ id,type
 64,Goblin
 65,Ghoul
 66,Ghost
-67,Ghoul
+67,Goblin
 68,Ghost
 74,Ghoul
 76,Goblin
@@ -49,7 +49,7 @@ id,type
 97,Ghoul
 98,Ghoul
 99,Goblin
-100,Goblin
+100,Ghoul
 101,Goblin
 102,Ghost
 104,Goblin
@@ -70,7 +70,7 @@ id,type
 127,Ghost
 132,Ghoul
 134,Goblin
-135,Goblin
+135,Ghost
 136,Ghoul
 137,Ghoul
 138,Ghoul
@@ -79,7 +79,7 @@ id,type
 144,Goblin
 145,Ghost
 146,Ghoul
-147,Ghoul
+147,Ghost
 148,Ghoul
 149,Ghoul
 150,Ghoul
@@ -114,12 +114,12 @@ id,type
 203,Goblin
 207,Ghoul
 209,Ghoul
-210,Ghost
-211,Goblin
+210,Goblin
+211,Ghost
 212,Ghoul
 213,Ghoul
 214,Ghost
-217,Ghoul
+217,Goblin
 220,Goblin
 221,Ghost
 223,Ghoul
@@ -140,7 +140,7 @@ id,type
 245,Ghost
 246,Goblin
 248,Goblin
-249,Ghost
+249,Goblin
 250,Ghost
 251,Ghoul
 252,Ghoul
@@ -162,7 +162,7 @@ id,type
 277,Ghoul
 278,Goblin
 279,Ghoul
-280,Ghoul
+280,Goblin
 281,Ghost
 284,Ghost
 288,Ghost
@@ -175,7 +175,7 @@ id,type
 303,Ghoul
 304,Ghoul
 308,Ghoul
-309,Ghost
+309,Goblin
 310,Ghoul
 311,Goblin
 312,Ghoul
@@ -192,9 +192,9 @@ id,type
 331,Ghost
 332,Ghoul
 334,Goblin
-335,Ghost
+335,Goblin
 337,Ghoul
-341,Ghost
+341,Ghoul
 344,Ghoul
 345,Goblin
 347,Ghoul
@@ -238,9 +238,9 @@ id,type
 405,Ghost
 406,Ghoul
 407,Goblin
-408,Goblin
+408,Ghoul
 411,Ghost
-413,Ghost
+413,Goblin
 414,Ghost
 415,Ghost
 417,Goblin
@@ -250,8 +250,8 @@ id,type
 424,Ghost
 425,Goblin
 426,Ghost
-430,Ghost
-431,Ghoul
+430,Goblin
+431,Ghost
 432,Goblin
 433,Ghost
 436,Goblin
@@ -261,7 +261,7 @@ id,type
 440,Ghost
 441,Ghost
 442,Goblin
-443,Goblin
+443,Ghost
 444,Ghoul
 445,Ghoul
 446,Goblin
@@ -286,7 +286,7 @@ id,type
 478,Ghoul
 479,Ghoul
 480,Ghost
-483,Goblin
+483,Ghoul
 484,Ghost
 485,Ghost
 486,Ghoul
@@ -306,9 +306,9 @@ id,type
 512,Ghoul
 513,Ghoul
 516,Ghoul
-517,Ghoul
+517,Goblin
 519,Ghost
-521,Goblin
+521,Ghoul
 522,Ghoul
 524,Ghoul
 525,Goblin
@@ -320,7 +320,7 @@ id,type
 532,Ghost
 533,Ghoul
 535,Ghost
-537,Ghost
+537,Goblin
 538,Ghoul
 539,Goblin
 541,Ghost
@@ -330,7 +330,7 @@ id,type
 548,Ghost
 550,Ghoul
 551,Ghoul
-554,Ghoul
+554,Goblin
 555,Ghoul
 560,Ghost
 562,Ghost
@@ -342,7 +342,7 @@ id,type
 571,Ghoul
 572,Goblin
 573,Goblin
-576,Ghost
+576,Ghoul
 577,Goblin
 578,Goblin
 587,Ghost
@@ -359,12 +359,12 @@ id,type
 606,Ghost
 611,Ghost
 612,Ghoul
-613,Ghost
+613,Ghoul
 615,Ghost
 618,Ghost
 619,Ghost
 620,Goblin
-622,Goblin
+622,Ghoul
 623,Ghoul
 624,Goblin
 626,Goblin
@@ -425,14 +425,14 @@ id,type
 725,Ghoul
 726,Ghost
 730,Ghost
-735,Ghost
+735,Goblin
 738,Ghost
 740,Goblin
 742,Ghost
 744,Goblin
 748,Ghost
 749,Goblin
-752,Ghoul
+752,Goblin
 755,Goblin
 757,Ghoul
 758,Goblin
@@ -444,7 +444,7 @@ id,type
 765,Ghost
 767,Goblin
 768,Ghost
-769,Ghoul
+769,Goblin
 770,Ghost
 771,Ghoul
 773,Ghost
@@ -454,7 +454,7 @@ id,type
 780,Goblin
 781,Goblin
 782,Ghost
-783,Ghost
+783,Goblin
 784,Ghoul
 787,Ghost
 788,Ghoul
@@ -465,7 +465,7 @@ id,type
 795,Ghoul
 796,Goblin
 798,Goblin
-799,Goblin
+799,Ghost
 800,Ghoul
 803,Goblin
 805,Ghost
@@ -482,7 +482,7 @@ id,type
 823,Ghoul
 824,Goblin
 825,Ghost
-826,Ghoul
+826,Ghost
 828,Ghost
 830,Goblin
 832,Goblin
@@ -517,7 +517,7 @@ id,type
 881,Goblin
 882,Ghoul
 883,Goblin
-884,Ghost
+884,Ghoul
 885,Ghost
 887,Ghoul
 888,Goblin
